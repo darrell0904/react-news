@@ -1,0 +1,7 @@
+export { default as Content } from './Content'
+export { default as Footer } from './Footer'
+export { default as Header } from './Header'
+export { default as News_container } from './News_container'
+export { default as Details } from './News_details'
+export { default as PCNewsImageBlock } from './News_image_block'
+export { default as CommonComments } from './Common_comments'

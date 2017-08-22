@@ -1,0 +1,30 @@
+.container{
+	padding-top:10px;
+}
+
+.leftContainer{
+	width:400px;
+	float:left;
+}
+
+.carousel{
+	width:400px;
+	float: left;
+}
+
+.tabs_news {
+    padding-left: 10px;
+    width: 460px;
+    float: left;
+}
+
+.tabs_news li {
+    height: 27px;
+    line-height: 27px;
+    font-size: 14px;
+    white-space: nowrap;
+    overflow: hidden;
+    width: 417px;
+    float: left;
+    text-overflow: ellipsis;
+}
